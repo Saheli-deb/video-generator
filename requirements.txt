@@ -1,0 +1,9 @@
+openai
+streamlit
+python-dotenv
+gTTS
+pillow
+moviepy
+imageio
+imageio-ffmpeg
+numpy
